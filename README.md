@@ -1,2 +1,3 @@
 # CyberLab-Handon
 This file is provided for case study and educational purposes only. The author does not support or encourage the use of any content, tools, techniques, or methods contained in this file for illegal, unauthorized, harmful, or unethical activities.
+Any misuse of this file, including actions that violate laws, infringe upon the rights of others, or cause damage to systems, data, organizations, or individuals, is strictly prohibited. The author and any related parties shall not be held responsible or liable for any consequences, damages, losses, or legal liabilities arising from such misuse.
